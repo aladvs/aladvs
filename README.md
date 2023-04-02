@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm ALadVS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aladvs&label=Profile%20views&color=0e75b6&style=flat" alt="aladvs" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladvs&show_icons=true&locale=en&layout=compact&langs_count=8" alt="aladvs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladvs&show_icons=true&locale=en" alt="aladvs" /></p>
