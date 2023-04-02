@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm ALadVS
+### Hi there 👋, I'm ALadVS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladvs&show_icons=true&locale=en&layout=compact&langs_count=8" alt="aladvs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladvs&show_icons=true&locale=en" alt="aladvs" /></p>
