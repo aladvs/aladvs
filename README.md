@@ -5,7 +5,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladvs&count_private=true&show_icons=true&locale=en&theme=transparent" alt="aladvs" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=aladvs&theme=transparent"/></p>
+
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=aladvs)](https://github.com/ryo-ma/github-profile-trophy)
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aladvs&count_private=true"/></p>
