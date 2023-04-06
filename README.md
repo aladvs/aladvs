@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladvs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="aladvs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladvs&count_private=true&show_icons=true&locale=en&theme=transparent" alt="aladvs" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=aladvs&theme=transparent"/></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=aladvs&theme=transparent" /></p>
 
 
 
