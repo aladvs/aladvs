@@ -1,7 +1,7 @@
 ### Thanks, and have fun
 
 ### OTHER PROFILES:
-Itch : https://aladvs.itch.io
+<a src="aladvs.itch.io"><img src="https://static.itch.io/images/itchio-black.png"></a>
 Discord : https://discord.com/users/440348695817486345
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladvs&label=Profile%20views&color=0e75b6&style=flat" alt="aladvs" /> </p>
 
