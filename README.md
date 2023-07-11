@@ -3,7 +3,7 @@
 <a href="https://aladvs.itch.io">
   <img style="padding=50px" src="https://static.itch.io/images/app-icon.svg" alt="itch.io logo" width="50" height="50">
 </a>
-<a href="https://discord.com/users/440348695817486345">
+<a href="https://steamcommunity.com/id/aladvs/">
   <img style="padding=50px" src="https://store.steampowered.com/favicon.ico" alt="itch.io logo" width="50" height="50">
 </a>
 <a href="https://discord.com/users/440348695817486345">
