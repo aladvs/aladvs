@@ -1,7 +1,7 @@
 ### Thanks, and have fun
 
 <a href="https://aladvs.itch.io">
-  <img style="padding=50px" src="https://static.itch.io/images/app-icon.svg" alt="itch.io logo" width="50" height="50">
+  <img style="padding=50px" src="https://static.itch.io/images/app-icon.svg" alt="itch.io logo" height="50">
 </a>
 <a href="https://steamcommunity.com/id/aladvs/">
   <img style="padding=50px" src="https://store.steampowered.com/favicon.ico" alt="itch.io logo" width="50" height="50">
