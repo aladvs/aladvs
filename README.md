@@ -2,6 +2,7 @@
 
 ### OTHER PROFILES:
 Itch : https://aladvs.itch.io
+Discord : https://discord.com/users/440348695817486345
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladvs&label=Profile%20views&color=0e75b6&style=flat" alt="aladvs" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladvs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="aladvs" /></p>
