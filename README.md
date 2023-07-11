@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://discord.com/users/440348695817486345">
-  <img style="padding=50px" src="https://store.akamai.steamstatic.com/public/images/v6/logo_steam_footer.png" alt="itch.io logo" width="50" height="50">
+  <img style="padding=50px" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/steamLogo_300.jpg" alt="itch.io logo" width="50" height="50">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladvs&label=Profile%20views&color=0e75b6&style=flat" alt="aladvs" /> </p>
 
