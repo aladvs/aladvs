@@ -1,5 +1,7 @@
 ### Thanks, and have fun
 
+### https://aladvs.github.io/
+
 <a href="https://aladvs.itch.io">
   <img style="padding=50px" src="https://static.itch.io/images/app-icon.svg" alt="itch.io logo" height="50">
 </a>
