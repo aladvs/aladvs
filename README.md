@@ -2,7 +2,7 @@
 
 ### https://aladvs.github.io/
 
-<a href="https://aladvs.itch.io">
+<a href="https://cadennabors.com">
   <img style="padding=50px" src="https://static.itch.io/images/app-icon.svg" alt="itch.io logo" height="50">
 </a>
 <a href="https://steamcommunity.com/id/aladvs/">
